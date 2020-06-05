@@ -8,6 +8,7 @@ cta_button_label: START FREE TRIAL
 cta_button_destination: https://www.rosettastone.com/lp/tryitnow
 main_banner: assets/main-banner.jpg
 section_1_title: Saying I Love You More in Spanish
+section_1_title_flare: Gray Stone
 section_1_text: >-
   If you want to say “I love you more” in Spanish, you would say,*“te amo
   más”*(for romantic expressions of love) or*“te quiero más”*(for friends and
@@ -20,6 +21,7 @@ section_1_text: >-
 
   Using Rosetta Stone’s Dynamic Immersion® methodology, you’ll learn the language, not just the words. What makes it so effective is that we prepare you to use your new language in your everyday life. So it’s not just about the features, but what you’re able to do because of them. That way, you’ll be ready to handle any situation with ease and confidence.
 section_2_title: Learn Spanish Words and Phrases
+section_2_title_flare: Gray Stone
 section_2_text: >-
   Some people choose to learn Spanish because they find themselves frequently
   encountering the language in their everyday lives. After all, Spanish pops up
@@ -43,12 +45,13 @@ section_2_text: >-
 
   After you have developed the ability to understand and correctly pronounce basic Spanish words and short phrases, you can move onto learning the longer phrases that make up so much of everyday Spanish conversation. Rosetta Stone’s digestible, 10-minute language lessons are designed to lead you along this natural path to learning. With Rosetta Stone language lessons, you’ll first focus on learning Spanish basic words and phrases, then you’ll move onto learning longer Spanish phrases, and then towards learning to understand and speak Spanish with confidence. Rosetta Stone language lessons are built to help you learn Spanish vocabulary and correct pronunciation for everyday conversational situations.
 section_3_title: Try Our Award-Winning App
+section_3_title_flare: Gray Stone
 section_3_text: >-
-  Surround yourself with Spanish whenever, wherever with the[Rosetta Stone
+  Surround yourself with Spanish whenever, wherever with the [Rosetta Stone
   app](https://www.rosettastone.com/mobile-apps/).
 
 
-  Download a unit and knock it out on the train or a flight. Select a 5-10 minute lesson and sneak it in while you wait in line or for your ride to show up. And explore dynamic features, like Seek and Speak, where you can point at an object in the real world and get a[translation](https://rosettastone.com/translate).
+  Download a unit and knock it out on the train or a flight. Select a 5-10 minute lesson and sneak it in while you wait in line or for your ride to show up. And explore dynamic features, like Seek and Speak, where you can point at an object in the real world and get a [translation](https://rosettastone.com/translate).
 
 
   The best part? You don’t have to choose between app or desktop. Both come with your subscription and sync, so you can switch between devices seamlessly.
