@@ -8,7 +8,7 @@ cta_1_button_label: START FREE TRIAL
 cta_1_button_destination: https://www.rosettastone.com/lp/tryitnow
 main_banner: assets/main-banner.jpg
 section_1_title: Saying I Love You More in Spanish
-section_1_title_flare: Gray Stone
+section_1_title_flare: Blue Stone
 section_1_text: >-
   If you want to say “I love you more” in Spanish, you would say,*“te amo
   más”*(for romantic expressions of love) or*“te quiero más”*(for friends and
