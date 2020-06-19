@@ -55,7 +55,8 @@ section_3_text: >-
 
 
   The best part? You don’t have to choose between app or desktop. Both come with your subscription and sync, so you can switch between devices seamlessly.
-show_ratings: false
+ratings_title: dsazfasdfasdas
+show_ratings: true
 cta_2_button_label: BUY NOW
 path: test
 cta_button_destination: https://www.rosettastone.com/lp/tryitnow
