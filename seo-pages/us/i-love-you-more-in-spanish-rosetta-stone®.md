@@ -59,7 +59,9 @@ ratings_title: dsazfasdfasdas
 cta_2_button_label: BUY NOW
 path: test
 cta_2_button_destination: https://www.rosettastone.com/buy-spanish
-related: best-in-spanish
+related:
+  - any-in-spanish
+  - best-in-spanish
 date: 2020-06-04T23:11:55.966Z
 cta_button_destination: https://www.rosettastone.com/lp/tryitnow
 show_ratings: true
