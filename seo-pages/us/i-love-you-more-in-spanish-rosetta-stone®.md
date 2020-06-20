@@ -57,7 +57,7 @@ related:
 date: 2020-06-04T23:11:55.966Z
 cta_button_destination: https://www.rosettastone.com/lp/tryitnow
 section_3_text: >-
-  Surround yourself with Spanish whenever, wherever with the [Rosetta Stone
+  Surround yourself with Spanish whenever, wherever with the[ Rosetta Stone
   app](https://www.rosettastone.com/mobile-apps/).
 
 
@@ -65,6 +65,9 @@ section_3_text: >-
 
 
   The best part? You don’t have to choose between app or desktop. Both come with your subscription and sync, so you can switch between devices seamlessly.
+
+
+  [![Learn Languages app in Google Play store](https://www.rosettastone.com/lp/hugo-assets/images/google-play.png)](https://rosettastone.onelink.me/zwaO/f670c3a0)   [![Learn Languages app in iOS app store](https://www.rosettastone.com/lp/hugo-assets/images/app-store.png)](https://rosettastone.onelink.me/zwaO/f670c3a0)
 cta_button_label: START FREE TRIAL
 cta_2_button_destination: https://www.rosettastone.com/buy-spanish
 ---
