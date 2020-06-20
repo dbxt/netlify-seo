@@ -46,16 +46,6 @@ section_2_text: >-
   After you have developed the ability to understand and correctly pronounce basic Spanish words and short phrases, you can move onto learning the longer phrases that make up so much of everyday Spanish conversation. Rosetta Stone’s digestible, 10-minute language lessons are designed to lead you along this natural path to learning. With Rosetta Stone language lessons, you’ll first focus on learning Spanish basic words and phrases, then you’ll move onto learning longer Spanish phrases, and then towards learning to understand and speak Spanish with confidence. Rosetta Stone language lessons are built to help you learn Spanish vocabulary and correct pronunciation for everyday conversational situations.
 section_3_title: Try Our Award-Winning App
 section_3_title_flare: Gray Stone
-ratings_title: dsazfasdfasdas
-show_ratings: true
-cta_2_button_label: BUY NOW
-related_title: Spanish
-path: test
-related:
-  - any-in-spanish
-  - best-in-spanish
-date: 2020-06-04T23:11:55.966Z
-cta_button_destination: https://www.rosettastone.com/lp/tryitnow
 section_3_text: >-
   Surround yourself with Spanish whenever, wherever with the [Rosetta Stone
   app](https://www.rosettastone.com/mobile-apps/).
@@ -65,6 +55,15 @@ section_3_text: >-
 
 
   The best part? You don’t have to choose between app or desktop. Both come with your subscription and sync, so you can switch between devices seamlessly.
-cta_button_label: START FREE TRIAL
+ratings_title: Learn Spanish today with Rosetta Stone.
+cta_2_button_label: BUY NOW
+path: test
 cta_2_button_destination: https://www.rosettastone.com/buy-spanish
+related:
+  - any-in-spanish
+  - best-in-spanish
+date: 2020-06-04T23:11:55.966Z
+cta_button_destination: https://www.rosettastone.com/lp/tryitnow
+show_ratings: true
+cta_button_label: START FREE TRIAL
 ---
