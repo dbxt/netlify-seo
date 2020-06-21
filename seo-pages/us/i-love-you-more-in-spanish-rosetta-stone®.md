@@ -1,7 +1,7 @@
 ---
 slug: i-love-you-more-in-spanish
 language: en-US
-title: I Love You More In Spanish | Rosetta Stone®
+title: I Love You Even More In Spanish | Rosetta Stone®
 description: Learn how to say “I love you more” and other Spanish phrases using
   the award-winning Rosetta Stone app.
 cta_1_button_label: START FREE TRIAL
