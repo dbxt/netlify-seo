@@ -2,11 +2,8 @@
 slug: any-in-spanish
 language: en-US
 title: Any In Spanish | Rosetta Stone®
-description: >-
-  Learn how to say “any” and other Spanish words using the award-winning Rosetta
-  Stone app.
-
-  djfdsjkhdfsjkh dfs jhkdfsj hkdfsh jkdfsjk hfsdhjk dfs hjkfsdhjk 
+description: Learn how to say “any” and other Spanish words using the
+  award-winning Rosetta Stone app.
 cta_1_button_label: START FREE TRIAL
 cta_1_button_destination: https://www.rosettastone.com/lp/tryitnow
 main_banner: assets/any-in-spanish-main-banner.jpg
